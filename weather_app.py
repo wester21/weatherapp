@@ -106,3 +106,7 @@ class DayWeather:
         }
         result = [time, temperature, information]
         return result
+
+if __name__ == '__main__':
+    day = DayWeather('київ')
+    print(day.getToday()[1]['2'])
