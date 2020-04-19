@@ -3,3 +3,8 @@ __pycache__/
 .idea/
 .gitignire
 .git/
+test.py
+testdes.py
+main.spec
+__pycache__/
+build/
