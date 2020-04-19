@@ -4,7 +4,7 @@
   - #### GNU/Linux / MacOS
   ```
   $ git clone https://github.com/wester21/weatherapp
-  $ cd weatherapp/dist/main/
+  $ cd weatherapp/dist
   $ ./main
   ```
   ##### or
@@ -16,7 +16,7 @@
   ```  
   - #### Windows
   install Linux and go back to the point above
-  
+
 ### Last screen
 
 ![](./screen.jpg)
