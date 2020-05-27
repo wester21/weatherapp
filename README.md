@@ -1,6 +1,7 @@
 # weatherapp  
 
 ### How to run:
+    (does not work)
   - #### GNU/Linux / MacOS
   ```
   $ git clone https://github.com/wester21/weatherapp
